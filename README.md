@@ -1,5 +1,3 @@
 # XR
 
 XR Project
-
-aslkdjfaslkjdf
